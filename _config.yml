@@ -1,0 +1,53 @@
+# Site settings
+title: MattWeinberg.net
+description: "Matt Weinberg's personal website."
+url: "https://mattweinberg.net"
+baseurl: ""
+permalink: /:title:output_ext
+
+# Obfuscates my email address as a (poor, probably ineffective) anti-spam measure
+email_link: >-
+  <script type="text/javascript">
+  var x="function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i>(104+y)" +
+  ")y*=2;y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"\\"+
+  "016\\034\\004\\010\\030\\004\\001\\001P\\027Z\\013]\\016\\000\\026\\nY\\023" +
+  "W\\023@\\\\\\\"-mo9}(kmgm\\177d!b2\\177})d||zr0a4xt|l\\\\OEGbP\\rJ\\010\\03" +
+  "1\\032\\003\\n\\021\\030\\027\\006KE@JOM\\035\\n@\\002V\\020\\001Q\\005B# 6" +
+  " ,m#n347-#?f&m=\\177bo<hjhb3vqt%0K\\\\\\032M\\007\\r\\007\\025)\\035B\\002E" +
+  "V\\023\\035\\025\\005\\007\\001\\032U\\031Y\\013\\014\\030\\010\\010\\017V0" +
+  ".ib7\\005B&i`jsqj\\033j;27#*4\\023r\\r\\016>);\\014\\004f;581f\\035\\001G5V" +
+  "PT9:RZY67;_]_,-F@D)*BJI&'JNN\\\\^1]2lM12ZR/\\016N\\\\^6=.b\\\"226RB\\010M0^" +
+  "ZGT\\005L22ZR.\\016N\\\\^hRBsK02ZR-\\014N\\\\^3>.b\\\"=2272\\020S980<.b\\\"" +
+  "!\\\"41u\\001E\\\\ ZR:\\023Xh74>Bb\\013!!1\\\"}\\035\\003b54>Bb.Q[I]UqO32ZR" +
+  "\\\\e/^ETQUb\\\\(d{5q\\036\\020rwrklCE)+-%g\\026 )k.z_[\\032oAtov]Px*cjq}\\" +
+  "014ajEcqL\\030.ehglJ-=)i5)\\014O='\\1775,\\003Ty+/w5\\tJ(<o&xW\\005))-g%RBi" +
+  "963w\\026\\014od=fjY\\020en(v#RR\\\\ Z,#QRi\\\"tohEWy.~&x\\036\\020okrmpK\\" +
+  "030\\\"+\",104)"                                                             ;
+  while(x=eval(x));
+  </script>
+
+# Obfuscates my app email address as a (poor, probably ineffective) anti-spam measure
+app_email_link: >-
+  <script type="text/javascript">
+  var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+  "=48){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return o" +
+  ".substr(0,ol);}f(\")15,\\\"#'-<6-s>,{|b|{771\\\\z(uic$fo!l720\\\\430\\\\120" +
+  "\\\\630\\\\Z620\\\\410\\\\W320\\\\700\\\\120\\\\330\\\\R230\\\\320\\\\600\\" +
+  "\\200\\\\.RI6530\\\\230\\\\010\\\\620\\\\520\\\\120\\\\020\\\\B320\\\\710\\" +
+  "\\9~81{609:3u;'r4\\\"\\\\*&m'(#%310\\\\e230\\\\x!/6(4730\\\\430\\\\aHIUIHBe" +
+  "520\\\\DCs120\\\\c`G020\\\\XHOCJRU230\\\\PFL710\\\\Gm{771\\\\rr771\\\\ncar|" +
+  "Oyyfwuvr610\\\\410\\\\330\\\\B130\\\\000\\\\630\\\\130\\\\710\\\\100\\\\H4[" +
+  "200\\\\700\\\\220\\\\6|;dt|<<+8#:1j6.[QO[YP\\\"(f};o nruter};))++y(^)i(tAed" +
+  "oCrahc.x(edoCrahCmorf.gnirtS=+o;721=%y;++y)15<i(fi{)++i;l<i;0=i(rof;htgnel." +
+  "x=l,\\\"\\\"=o,i rav{)y,x(f noitcnuf\")"                                     ;
+  while(x=eval(x));
+  </script>
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+sass:
+  style: compressed
+

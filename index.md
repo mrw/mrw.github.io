@@ -2,22 +2,24 @@
 layout: default
 ---
 
-I’m a husband, father, and developer in New York.
+I’m a New York-based husband and father, and am Co-Founder and President of Technology & Development at [Vector Media Group](https://www.vectormediagroup.com). Want to get in touch? {::nomarkdown}{{ site.email_link }}{:/nomarkdown}
 
-[Here's how to order for the best experience at Katz's Deli]({% post_url 2018-03-27-ordering-at-katzs-deli %}).
+- [Twitter (@mrw)](https://twitter.com/mrw)
+- [GitHub](https://github.com/mrw)
+- [LinkedIn](https://www.linkedin.com/in/matthewweinberg/)
+
+---
+Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 ---
 
-- I’m Co-Founder and President of Technology & Development at [Vector Media Group](https://www.vectormediagroup.com).
-- I tweet as [@mrw](https://twitter.com/mrw).
-- I have some of my code [on GitHub](https://github.com/mrw).
-- Want to get in touch? {::nomarkdown}{{ site.email_link }}{:/nomarkdown}
+## Security Reports
 
-Have questions or need help on an iPhone or iPad app I made? {::nomarkdown}{{ site.app_email_link }}{:/nomarkdown} and I’ll get back to you quickly.
-
----
-
-I also sometimes do light security research to help websites stay secure. I've found and reported issues on a number of sites, including:
+I want to help websites stay secure. I've found and reported issues on a number of sites, including:
 
 - An XSS vulnerability on FAA.gov.
 - An XSS vulnerability on JetBlue.com.

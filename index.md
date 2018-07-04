@@ -9,11 +9,10 @@ I’m a New York-based husband and father, and am Co-Founder and President of Te
 - [LinkedIn](https://www.linkedin.com/in/matthewweinberg/)
 
 ---
-## Posts
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+## Posts
+{% for post in site.posts reversed %}
+- [{{ post.title }}]({{ post.url }}){% endfor %}
 
 ---
 

@@ -1,6 +1,6 @@
 # Site settings
 title: MattWeinberg.net
-description: "Matt Weinberg's personal website."
+description: "Matt Weinberg's website."
 url: "https://mattweinberg.net"
 baseurl: ""
 permalink: /:title:output_ext

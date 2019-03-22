@@ -3,7 +3,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 		<link href="{{ "/assets/site.css" | relative_url }}?v2" rel="stylesheet" type="text/css" />
-		<title>{{ site.title }}</title>
+		<title>{% if page.title %}{{page.title | escape}} | {% endif %}{{ site.title }}</title>
 		<meta name="viewport" content="width=600">
 		<meta name="description" content="{{ site.description | escape }}">
 		<script>

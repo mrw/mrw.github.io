@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I’m a New York-based husband and father, and am Co-Founder and President of Technology & Development at [Vector Media Group](https://www.vectormediagroup.com). Want to get in touch? {::nomarkdown}{{ site.email_link }}{:/nomarkdown}
+I’m a New York-based husband and father, and am Co-Founder and President of Technology & Development at [Happy Cog](https://www.happycog.com) (formerly known as [Vector Media Group](https://www.vectormediagroup.com)). Want to get in touch? {::nomarkdown}{{ site.email_link }}{:/nomarkdown}
 
 - [Twitter (@mrw)](https://twitter.com/mrw)
 - [GitHub](https://github.com/mrw)

@@ -29,3 +29,5 @@ I've been asked a number of times to recommend restaurants in Manhattan's Chinat
   - If you're in Flushing, Asian Jewels is similar to Jing Fong.
 
 All these places are relatively inexpensive.
+
+Like this? Also read my post [How to order for the best experience at Katz's Deli]({% link _posts/2018-03-27-ordering-at-katzs-deli.markdown %}).

@@ -26,3 +26,5 @@ date:   2018-03-27 11:00:00 -0400
     *   The only acceptable way to eat a hot dog is **"with mustard and sauerkraut"**.
 1.  Go find a seat! Make sure to sit in the "self-serve" tables. There are more if you go around to the side/back.
 1.  On your way out, you'll pay at the register by presenting your ticket.
+
+Like this? Also read my [Chinatown (Manhattan) Food Suggestions]({% link _posts/2018-06-20-chinatown-manhattan-food-suggestions.markdown %}).

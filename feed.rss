@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+
+		<title>Happy Cog - Cognition</title>
+
+		<link>https://cognition.happycog.com</link>
+		<description>Happy Cog - Cognition</description>
+		<dc:language>en-us</dc:language>
+		<dc:creator>Happy Cog</dc:creator>
+
+		<dc:rights>Copyright Happy Cog</dc:rights>
+		<admin:generatorAgent rdf:resource="https://www.craftcms.com/" />
+
+	</channel>
+</rss>

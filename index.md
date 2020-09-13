@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I’m a New York-based husband and father (👧👦), and am Co-Founder and President of Technology & Development at [Happy Cog](https://www.happycog.com) (formerly known as [Vector Media Group](https://www.vectormediagroup.com)). Want to get in touch? [Email Me](mailto:matt@mattweinberg.net).
+I’m a New York-based husband and father, and am Co-Founder and President of Technology & Development at [Happy Cog](https://www.happycog.com) (formerly known as [Vector Media Group](https://www.vectormediagroup.com)). Want to get in touch? [Email Me](mailto:matt@mattweinberg.net).
 
 - [Twitter (@mrw)](https://twitter.com/mrw)
 - [GitHub](https://github.com/mrw)

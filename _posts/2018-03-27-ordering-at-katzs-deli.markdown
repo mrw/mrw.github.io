@@ -7,7 +7,7 @@ date:   2018-03-27 11:00:00 -0400
 [Katz's Deli](https://www.katzsdelicatessen.com/) has the best pastrami in NYC, and maybe in the world. Everyone should go there when they visit New York. Here's how to make the best of your visit:
 
 1.  When you go in they'll give you a ticket. Don't lose the ticket; anything you order has to be put on it so they know what to charge you later.
-1.  Go directly to the counter on the right. Don't sit on the left; don't do waiter service.
+1.  Go directly to the counter on the right (for counter service). Don't sit on the left (the left tables are waiter service).
 1.  Each cutter/slicer has their own line. The line on the closest one is usually longest because people don't realize that. So move in a little bit.
 1.  While waiting in line, have visible cash in your hand as a tip. A few singles, maybe a $5 if you're ordering for more than one person. **Make sure to tip your cutter**.
 1.  When it's your turn, walk up to the cutter and make sure they see you put the cash in their cup. This should happen before you order.
